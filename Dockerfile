@@ -1,5 +1,6 @@
-# NOTE:
-# Using Debian Testing instead of Debian Stable provides access to a much newer version of Hugo.
+# NOTES:
+# 1.  Using Debian Testing instead of Debian Stable provides access to a much newer version of Hugo.
+# 2.  Installing Go is NOT a prerequisite for installing Hugo.
 
 FROM debian:bullseye
 MAINTAINER Ruby on Racetracks
